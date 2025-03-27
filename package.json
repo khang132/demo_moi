@@ -17,4 +17,7 @@
   },
   "homepage": "https://github.com/khang132/demo_moi#readme",
   "description": ""
+  "scripts": {
+  "start": "node server.js"
+}
 }
